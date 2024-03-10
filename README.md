@@ -24,5 +24,10 @@ As Data analyst developed dashboard from source (Excel files)
 - Developed Age-Group view to track demanded policies by age-group customers prefer most.
 - This view could be consume by sales and marketing team to target customers age-group.
 
+# Conclusions/Key Insights
+- 
 
-
+# Learnt things from this project
+- Compared Benchmark using KPI (Key Performance Indicators)
+- Learnt to build various visual using Visualization charts using matrics.
+- Build all business functions key matrics using DAX Measure
