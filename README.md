@@ -9,7 +9,7 @@ Shield Insurance operates in different cities to sell policies:
 - Chennai
 - Indore
 
-Link to [Interactive Dashboard](https://app.powerbi.com/groups/me/list?experience=power-bi)
+Link to [Live Interactive Dashboard](https://app.powerbi.com/groups/me/list?experience=power-bi)
 
 # Problem Statement
 - Shield insurance management want to analyze the past data to get intensive insights
