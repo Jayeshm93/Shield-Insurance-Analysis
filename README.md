@@ -15,7 +15,7 @@ Link to [Interactive Dashboard](https://app.powerbi.com/groups/me/list?experienc
 - Shield insurance management want to analyze the past data to get intensive insights
 - It will supportive for new business decisions.
   
-Link to [Shield Insurance Presentation ppt](https://app.powerbi.com/groups/me/list?experience=power-bi)
+Link to [Shield Insurance Presentation ppt](https://github.com/Jayeshm93/Shield-Insurance-Analysis/blob/d7bb4a3da06aa8e57f58afe28ca8c73d1c24c073/Shield%20Insurance%20Presentation.pptx)
 
 # Task
 As Data analyst developed dashboard from source (Excel files)
