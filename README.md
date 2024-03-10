@@ -22,12 +22,15 @@ As Data analyst developed dashboard from source (Excel files)
 - Create General view (matrics, KPIs) helps to take big decisions.
 - Made Sales Mode view to observing customers and revenue contribution by sales mode(offline-agent, offline-Direct, Online-app, Online-website).
 - Developed Age-Group view to track demanded policies by age-group customers prefer most.
-- This view could be consume by sales and marketing team to target customers age-group.
 
-# Conclusions/Key Insights
-- 
+# Conclusions
+- Shield top managenment can be optimized business based on KPIs,customers and revenue by city, monthly trend using General view.
+- Managenment will get help, focusing on specific sales mode and policies where cusomters demanded more using Sales Mode view.
+- Age-Group view can be utilized by Sales and Marketing team to target customers age-group.
+- Shield Insurance management will protect customers life with insurance as well as their business.
 
 # Learnt things from this project
 - Compared Benchmark using KPI (Key Performance Indicators)
 - Learnt to build various visual using Visualization charts using matrics.
-- Build all business functions key matrics using DAX Measure
+- Build all business functions key matrics using DAX Measure.
+- Dynamic switching between two visual using DAX measure.
