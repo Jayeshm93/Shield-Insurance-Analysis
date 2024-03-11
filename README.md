@@ -10,6 +10,7 @@ Shield Insurance operates in different cities to sell policies:
 - Indore
 
 Link to [Dashboard pbix](https://github.com/Jayeshm93/Shield-Insurance-Analysis/blob/d7bb4a3da06aa8e57f58afe28ca8c73d1c24c073/Insurance%20Analysis%20Project.pbix)
+
 Link to [Shield Insurance Presentation ppt](https://github.com/Jayeshm93/Shield-Insurance-Analysis/blob/d7bb4a3da06aa8e57f58afe28ca8c73d1c24c073/Shield%20Insurance%20Presentation.pptx)
 
 # Problem Statement
