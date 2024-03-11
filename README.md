@@ -26,7 +26,7 @@ As Data analyst developed dashboard from source (Excel files)
 
 # Conclusions
 - Shield top managenment can be optimized business based on KPIs,customers and revenue by city, monthly trend using General view.
-- Managenment will get help, focusing on specific sales mode and policies where cusomters demanded more using Sales Mode view.
+- Managenment will get help, focusing on specific sales mode and policies where customers demanded more using Sales Mode view.
 - Age-Group view can be utilized by Sales and Marketing team to target customers age-group.
 - Shield Insurance management will protect customers life with insurance as well as their business.
 
