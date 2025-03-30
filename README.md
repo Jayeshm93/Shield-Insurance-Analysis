@@ -2,7 +2,7 @@
 I have completed this project in power bi course from Codebasics 
 
 # Overview
-Shiled Insurance is a company which selling insurance plan overall cities in india.
+Shiled Insurance is a company which selling insurance plans overall cities in india. They want ot track their past data throuogh dashboard.
 
 # Problems Statement 
 - Company management want to analyze past sales data through dashboard.
@@ -11,8 +11,11 @@ Shiled Insurance is a company which selling insurance plan overall cities in ind
 So, they decided to hire a third party service providers to provide insights them from historical data.
 
 # Task
-As Data analyst developed all department dashboard from sources (2 SQL Database, Excel files)
-- Create Finance view according to mockups Matrics
+As Data analyst developed view as per management provided to me.
+- Create General view according to mockups Matrics
+
+-------------------------------------
+  
 - Create Sales and Marketing view to based on them management
 - Create supply chain view to mockups suggest from realted management 
 - Create executive view that will help to take big decisions by CEO's.
