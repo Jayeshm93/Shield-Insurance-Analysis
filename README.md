@@ -21,8 +21,12 @@ This all dashboard could be used by any team that related to it and also Executi
 
 
 # Important Insights from this Project 
-- AtliQ can regain positive net profit and achieve target in KPI's instead india in all markets using finance view
-- Using sales and marketing view, management can Accelerate market share in weekest market and also all market by keeping minimum ads-promotion expenses, which will increase the revenue by customers and product.
+- Shield Insurance, in Dec 2022, here was intensive increase in customers 6% and revenue 18%. This continues to the positive daily growth.
+- But, in Apr 2023, here was intensive declined in customers (-41%) and revenue(-41%) to the last month.
+- Delhi noted highets customer & revenue with 11k and 401M.
+- In age group 31-40 has majority of customer and making highest revenue, followed by the age group 41-50.
+
+- Using sales and marketing view, management can accelerate market share in weekest market and also all market by focusing more on offline-direct , which will increase the revenue by customers and product.
 
 # Learnt things from this project
 - Learnt to build various visual using Visualization charts using matrics.
