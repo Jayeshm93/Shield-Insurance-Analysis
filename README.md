@@ -2,31 +2,22 @@
 I have completed this project in power bi course from Codebasics 
 
 # Overview
-Shiled Insurance is a company which selling insurance plans overall cities in india. They want ot track their past data throuogh dashboard.
+Shield Insurance company is provider of protection insurance with focusing on customers satisfaction, to covering customers life. They want to be analyze the past data through dashboard.
 
 # Problems Statement 
 - Company management want to analyze past sales data through dashboard.
-- In few cities insurance has declined.
-- Shiled Insurance Management wanted to incorporate with Business and data intelligence to regain market share.
+- In few cities revenue has declined fo their policies.
+- Shiled Insurance Management want to incorporate with Business and data intelligence to regain market share.
 So, they decided to hire a third party service providers to provide insights them from historical data.
 
 # Task
-As Data analyst developed view as per management provided to me.
-- Create General view according to mockups Matrics
+As a data analyst, my tasks included working with client, Shield Insurance to understand their requirements, interpret data and developed a effective dashboard. 
 
--------------------------------------
-  
-- Create Sales and Marketing view to based on them management
-- Create supply chain view to mockups suggest from realted management 
-- Create executive view that will help to take big decisions by CEO's.
+- Create General view according to mockups Matrics to analyze KPI's, customer and revenue performance by monthly, daily, age & city wise.
+- Create Sales Mode view to analyze customer and revenue performance by sales mode with trend over theh month.
+- Create Age Group view to mockups suggest from realted management as they can analyze to revenue and customer performance by age groups by the ke y data such as policies preference, settlement%.
 
-This all dashboard could be used by one which from Finance,Sales, Marketing and Supply Chain and also Executive view.
-
-# Home view
-<p align="center">
-    <img 
-src= 'https://github.com/Jayeshm93/Business_Insights_360_PowerBI/blob/0e1897bbc3c8838f1f1ad473369bb3eaaa34fc71/Home%20View.png' height="300">
-</p>
+This all dashboard could be used by any team that related to it and also Executive view.
 
 
 # Important Insights from this Project 
