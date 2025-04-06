@@ -25,7 +25,8 @@ This all dashboard could be used by any team that related to it and also Executi
 - But, in Apr 2023, here was intensive declined in customers (-41%) and revenue(-41%) to the last month.
 - Delhi noted highets customer & revenue with 11k and 401M.
 - In age group 31-40 has majority of customer and making highest revenue, followed by the age group 41-50.
-
+- In the 31-40 age group, the POL3309HEL is a demanded policy among the customers in this group.
+- In settlement %, 65+ age group indicates highest settlement with 73%, followed by 51-65 with 65%.
 - Using sales and marketing view, management can accelerate market share in weekest market and also all market by focusing more on offline-direct , which will increase the revenue by customers and product.
 
 # Learnt things from this project
